@@ -54,15 +54,16 @@ window.onload = function() {
     // if includeCover is true the algorithm should
     includeCover: true,
     // this is the url of the image that will used as background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://static4.depositphotos.com/1008265/313/i/950/depositphotos_3130662-stock-photo-nice-background.jpg",
     // this is the url for the profile avatar
     avatarURL: "https://avatars.githubusercontent.com/Norbert305",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
     twitter: null,
-    github: "alesanchezr",
-    linkedin: null,
+    github: "Norbert305",
+    linkedin: "in/norbert-seals-9422a673/",
     instagram: null,
     name: null,
     lastname: null,
